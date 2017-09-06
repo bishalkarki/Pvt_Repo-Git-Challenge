@@ -20,9 +20,6 @@ information:
 | Equipment              | 3-letter codes for plane type(s) generally used on this flight, separated by spaces                         |
 |------------------------+-------------------------------------------------------------------------------------------------------------|
 
-The data is ISO 8859-1 (Latin-1) encoded. The special value \N is used
-for "NULL" to indicate that no value is available, and is understood
-automatically by MySQL if imported.
 
 Notes:
 
@@ -38,7 +35,11 @@ Sample entries:
     TOM,5013,ACE,1055,BFS,465,,0,320
     #+END_EXAMPLE
 
-Route maps for airports and airlines can be viewed by searching for
+
+adding a line
+
+
+this line has been changes Route maps for airports and train stations and airlines can be viewed by searching for
 their names or code in the website's Search box; alternatively, check
 out the [[http://openflights.org/html/route-maps][alphabetical list]] of all covered airports and airlines.
 
