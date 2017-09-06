@@ -38,8 +38,11 @@ Sample entries:
     TOM,5013,ACE,1055,BFS,465,,0,320
     #+END_EXAMPLE
 
-Route maps for airports and airlines can be viewed by searching for
-their names or code in the website's Search box; alternatively, check
-out the [[http://openflights.org/html/route-maps][alphabetical list]] of all covered airports and airlines.
 
+ADDING LINES
+
+
+chainging lines for airports and airlines can be viewed by searching for
+their names or code in the website's Search box; alternatively, check
+deleting lines
 
